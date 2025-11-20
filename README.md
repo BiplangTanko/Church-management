@@ -69,5 +69,6 @@ password: admin123
 This repository contains a limited demo version of the project.
 The complete production ready source code, including advanced features and the full admin module, is available for purchase.
 
-If you want full access, contact me directly on WhatsApp : 09028085168 or reach out via my portfolio website https://biplangport.infinityfreeapp.com/my-portfolio/uploads/contact.php.
+If you want full access, contact me directly on WhatsApp : 09028085168 or reach out via my portfolio website https://biplangport.infinityfreeapp.com/my-portfolio/uploads/contact.php. There I will show you a guide on the complete system setup.
 This helps support future development and ensures the project continues to grow.
+
